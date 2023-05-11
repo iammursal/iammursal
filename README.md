@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/iammursal"><img src="https://api.daily.dev/devcards/d96ef460d2e845e49db3b89eec0ee48b.png?r=lwk" width="400" alt="Murshal Akhtar Ansari's Dev Card"/></a>
-
 ### Hi there, I'm Murshal 👋
 
 ## I'm a self-taught full-stack web & mobile developer!!
