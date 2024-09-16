@@ -22,7 +22,6 @@
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using Next.js and Laravel**
 - 🌱 I'm currently learning: **📚 DSA**
 - 💬 Ask me about: **💡 Laravel, JavaScript, React, Next.js, React Native, Node.js, TailwindCSS and RESTful APIs**
-- ⚡ Fun fact: **🛌 I once solved a bug in my dream.**
 
  **<h3 align="left">Skills</h3>**
 
