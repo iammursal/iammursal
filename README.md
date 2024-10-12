@@ -34,8 +34,8 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=iammursal&theme=dracula&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=weekly&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&border_radius=12&border=fff" alt="GitHub streak Card" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammursal&theme=dracula&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iammursal&repo=len-den&show_owner=true&hide_border=false&theme=dracula" alt="GitHub repo-card Card" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammursal&theme=dracula&hide_title=false&layout=compact&langs_count=10&hide_progress=false&card_width=400&border_radius=12" alt="GitHub top-langs Card" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iammursal&repo=len-den&show_owner=true&hide_border=false&theme=dracula&border_radius=12" alt="GitHub repo-card Card" /> -->
 </p>
 
