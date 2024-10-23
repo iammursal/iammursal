@@ -27,7 +27,7 @@
     srcset="https://github-contributor-stats.vercel.app/api?username=iammursal&limit=4&theme=catppuccin_latte&combine_all_yearly_contributions=true&card_width=400&card_height=200&border_radius=12&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=iammursal&limit=4&theme=dracula&combine_all_yearly_contributions=true&card_width=400&card_height=200&border_radius=12&hide_border=true" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=iammursal&limit=4&theme=catppuccin_latte&combine_all_yearly_contributions=true&card_width=400&card_height=200&border_radius=12&hide_border=true" alt="GitHub repo-card Card" />
  
 </picture>
 
@@ -41,7 +41,7 @@
     srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Qoute" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte" alt="Random Qoute" />
 </picture> 
 
 ![Profile views](https://komarev.com/ghpvc/?username=iammursal&label=Profile%20views&color=0e75b6&style=flat)
