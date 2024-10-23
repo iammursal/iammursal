@@ -1,4 +1,4 @@
-## Hey there! Ready for a plot twist? I'm Murshal Akhtar Ansari, a self-taught full-stack developer who went from "Hello, World" to "Challenge accepted!" swifter than a hotfix in a live demo. From Laravel to React, Next.js, and React Native, I've got the coding prowess to turn complex ideas into reality. When I'm not buried in lines of code, you'll find me geeking out over the latest tech gadgets or conquering new worlds in video games. Let's build something amazing together—sleepless nights and all!
+## *Hey there! Ready for a plot twist? I'm Murshal Akhtar Ansari, a self-taught full-stack developer who went from "Hello, World" to "Challenge accepted!" swifter than a hotfix in a live demo. From Laravel to React, Next.js, and React Native, I've got the coding prowess to turn complex ideas into reality. When I'm not buried in lines of code, you'll find me geeking out over the latest tech gadgets or conquering new worlds in video games. Let's build something amazing together—sleepless nights and all!*
 
 
 ### Connect with me: 
