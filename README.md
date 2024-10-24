@@ -1,4 +1,4 @@
-## *Hey there! Ready for a plot twist? I'm Murshal Akhtar Ansari, a self-taught full-stack developer who went from "Hello, World" to "Challenge accepted!" swifter than a hotfix in a live demo. From Laravel to React, Next.js, and React Native, I've got the coding prowess to turn complex ideas into reality. When I'm not buried in lines of code, you'll find me geeking out over the latest tech gadgets or conquering new worlds in video games. Let's build something amazing together—sleepless nights and all!*
+Hey there! Ready for a plot twist? I'm Murshal, a self-taught full-stack developer who went from "Hello, World" to "Challenge accepted!" swifter than a hotfix in a live demo. From Laravel to React, Next.js, and React Native, I've got the coding prowess to turn complex ideas into reality. When I'm not buried in lines of code, you'll find me geeking out over the latest tech gadgets or conquering new worlds in video games. Let's build something amazing together—sleepless nights and all!
 
 
 ### Connect with me: 
@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<picture alt="GitHub repo-card Card" width="48%">
+<picture alt="GitHub repo-card Card" >
   <source
     srcset="https://github-contributor-stats.vercel.app/api?username=iammursal&limit=4&theme=dracula&combine_all_yearly_contributions=true&card_width=400&card_height=200&border_radius=12&hide_border=true"
     media="(prefers-color-scheme: dark)"
@@ -27,7 +27,7 @@
     srcset="https://github-contributor-stats.vercel.app/api?username=iammursal&limit=4&theme=catppuccin_latte&combine_all_yearly_contributions=true&card_width=400&card_height=200&border_radius=12&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=iammursal&limit=4&theme=catppuccin_latte&combine_all_yearly_contributions=true&card_width=400&card_height=200&border_radius=12&hide_border=true" alt="GitHub repo-card Card" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=iammursal&limit=4&theme=catppuccin_latte&combine_all_yearly_contributions=true&card_width=400&card_height=200&border_radius=12&hide_border=true" alt="GitHub repo-card Card" />
  
 </picture>
 
