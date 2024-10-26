@@ -44,4 +44,4 @@ Hey there! Ready for a plot twist? I'm Murshal, a self-taught full-stack develop
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte" alt="Random Qoute" />
 </picture> 
 
-![Profile views](https://komarev.com/ghpvc/?username=iammursal&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=iammursal&color=orange&style=for-the-badge)
