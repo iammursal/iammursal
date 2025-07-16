@@ -1,4 +1,4 @@
-Hey there! Ready for a plot twist? I'm Murshal, a self-taught full-stack developer. From Laravel to React, Next.js, and React Native, I've got the coding prowess to turn complex ideas into reality. When I'm not buried in lines of code, you'll find me geeking out over the latest tech gadgets or conquering new worlds in video games. Let's build something amazing together—sleepless nights and all!
+I'm a self-taught full-stack web and mobile app developer, specializing in backend development using PHP and Laravel. I focus on building scalable web applications with clean, maintainable code. I enjoy solving real-world problems, integrating APIs, and continuously improving performance and reliability.
 
 
 ### Connect with me: 
