@@ -31,7 +31,6 @@ I'm a self-taught full-stack web and mobile app developer, specializing in backe
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 8px">  
 
 <br>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="28" alt="Playwright" style="margin-right: 8px"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 8px"> 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 8px"> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 8px">  </p>
