@@ -6,7 +6,7 @@ I'm a self-taught full-stack web and mobile app developer, specializing in backe
 
 
 ### Rapid Fire:
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using Next.js and Laravel**
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React, InertiaJs and Laravel**
 - 🌱 I'm currently learning: **📚 DSA**
 - 💬 Ask me about: **💡 Laravel, JavaScript, React, Next.js, React Native, Node.js, TailwindCSS and RESTful APIs**
 
